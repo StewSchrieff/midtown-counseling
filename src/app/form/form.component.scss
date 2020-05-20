@@ -1,0 +1,26 @@
+.form-item {
+  width: 45%
+}
+
+
+.form-date {
+  width: 15%
+}
+
+.form-notes {
+  width: 80%
+}
+
+
+.button-group {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 20%;
+  align-items: end;
+
+  button {
+
+  }
+}
